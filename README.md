@@ -12,3 +12,5 @@
 ・RL_Othello_AlphaZero.ipynb:DQNモデルと比較するためのもの。
 
 ・RL_Othello_AlphaZero_after.ipynb:RL_Othello_AlphaZeroを改良したもの。直接対決に利用。
+
+・enhanced_model.pth:RL_Othello_AlphaZero_after.ipynbで作成した改良版AlphaZero方式モデル
